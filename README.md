@@ -1,4 +1,24 @@
-👋 Hi there, I'm a software engineer from the Netherlands.
+<p align="center">👋 Hallo, Hello, Hola! I'm a Software Engineer from the Netherlands. </br> I'm not that active on GitHub, but feel free to check out some of my projects.</p>
+
+```mermaid
+  gitGraph:
+    commit
+    commit
+    branch c-sharp
+    commit id: "Blaeu.NET"
+    checkout main
+    merge c-sharp
+    commit
+    commit
+    branch js
+    commit id: "digigem"
+    commit id: "MagicDashboard"
+    checkout main
+    commit type: HIGHLIGHT
+    merge js
+    commit
+    commit
+```
 
 <!--
 **mickeydelsman/mickeydelsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
