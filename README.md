@@ -1,7 +1,7 @@
 <p align="center">👋 Hallo, Hello, Hola! I'm a Software Engineer from the Netherlands. </br> I'm not that active on GitHub, but feel free to check out some of my projects. </p> </br>
 
 ```mermaid
-%%{init: { 'theme': 'base', 'themeVariables': {
+%%{init: { 'theme': 'dark', 'themeVariables': {
               'gitBranchLabel0': '#fff',
               'git0': '#6a8993',
               'gitBranchLabel1': '#fff',
