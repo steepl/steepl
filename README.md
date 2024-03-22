@@ -17,7 +17,6 @@
     commit type: HIGHLIGHT
     merge js
     commit
-    commit
 ```
 
 <!--
