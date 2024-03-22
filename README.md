@@ -14,7 +14,6 @@
     commit id: "digigem"
     commit id: "MagicDashboard"
     checkout main
-    commit type: HIGHLIGHT
     merge js
     commit
 ```
