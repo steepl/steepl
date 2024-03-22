@@ -1,4 +1,4 @@
-<p align="center">👋 Hallo, Hello, Hola! I'm a Software Engineer from the Netherlands. </br> I'm not that active on GitHub, but feel free to check out some of my projects.</p>
+<p align="center">👋 Hallo, Hello, Hola! I'm a Software Engineer from the Netherlands. </br> I'm not that active on GitHub, but feel free to check out some of my projects. </p> </br>
 
 ```mermaid
   gitGraph:
