@@ -1,4 +1,4 @@
-<p align="center">👋 Hallo, Hi, Hola! I'm a Software Engineer from the Netherlands.</p>
+<p align="center">👋 Hallo, Hi, ¡Hola, I'm a Software Engineer from the Netherlands.</p>
 <p align="center">I'm not that active on GitHub, but feel free to check out some of my projects.</p><br>
 
 ```mermaid
